@@ -15,6 +15,7 @@ print(sub(num1,num2))
 print(mul(num1,num2))
 print(div(num1,num2))
 
+'''
 output:
 Enter num1 : 4
 Enter num2 : 5
@@ -22,3 +23,4 @@ Enter num2 : 5
 -1
 20
 0.8
+'''
